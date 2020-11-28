@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "800476198838",
+    "firebase_url": "https://chatoc-d79b3.firebaseio.com",
+    "project_id": "chatoc-d79b3",
+    "storage_bucket": "chatoc-d79b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800476198838:android:794446b0c9334401",
+        "android_client_info": {
+          "package_name": "com.gxma.chatoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800476198838-5n7rulik2klrs9k91etglplrcefidjij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gxma.chatoc",
+            "certificate_hash": "c4c8bc50f60a920e5159ac6ec9403ebc15b1de10"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd_TzwrVV_mMt_1rA-vw14Y1LZkPPh6yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800476198838-6s6gff4unhf24o026qaqqeet91prurau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

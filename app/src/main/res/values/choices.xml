@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_choices">
+        <item>ordre par date</item>
+        <item>ordre par nom</item>
+        <item>ordre par prix</item>
+    </string-array>
+
+    <string-array name="order">
+        <item>Les commandes en suspens</item>
+        <item>Les commandes acceptées</item>
+        <item>Les commandes refusées</item>
+    </string-array>
+
+</resources>
